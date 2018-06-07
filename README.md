@@ -79,16 +79,20 @@ their third year, and is no longer enrolled in a local CTC in their third year.
 
 ## Model Parameters and Specification
 [ADD context]
+
 > We specify a logistic regression function:
-> $$logit(P(AwdT = 1|X))=B_0 + B_iX_i^T$$,
-> where,
+>
+> ![](img/CodeCogsEqnA.gif)
+>
+> Where,
+>
+> ![](img/CodeCogsEqnB.gif)
+>
+> *1 = Student gets an award or transfers within 3 years.*
 > 
-> $$AwdT= \Big[_0^1$$
-> $$1=Student \ gets \ an \ award \ or \ transfers \ within \  3 \  years.$$
-> $$0=Student \ is \ still \ enrolled \ or \ has \ left \ the \ RMP \ CTC \ system.$$
-> and, 
-> $$X^T = matrix  \ that \ contains \ our \ predictors
+> *0=Student is still enrolled or has left the RMP CTC system.*
+>
+> and,
+> 
+> ![](img/CodeCogsEqn.gif)
 
-![](img/CodeCogsEqn.gif)
-
-![](img/CodeCogsEqn.png)
