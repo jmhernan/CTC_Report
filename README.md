@@ -89,4 +89,6 @@ their third year, and is no longer enrolled in a local CTC in their third year.
 > and, 
 > $$X^T = matrix  \ that \ contains \ our \ predictors
 
+![](img/CodeCogsEqn.gif)
 
+![](img/CodeCogsEqn.png)
