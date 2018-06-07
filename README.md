@@ -78,7 +78,7 @@ their third year, and is still enrolled in a local CTC in their third year.
 their third year, and is no longer enrolled in a local CTC in their third year.
 
 ## Model Parameters and Specification
-[ADD context]
+Student outcomes for the most recent cohort of students were assessed using a logistic regression model, which looked at the probability that a student will receive any type of award or transfer, conditional on a set of predictors. (see below).
 
 > We specify a logistic regression function:
 >
@@ -95,4 +95,18 @@ their third year, and is no longer enrolled in a local CTC in their third year.
 > and,
 > 
 > ![](img/CodeCogsEqn.gif)
+> 
+> *Variable Defintions:*
+> 
+> | Variable in model | Indicator |
+> |------------------ |-----------|
+> | Gender            | Student reported gender.|
+> |Race/Ethnicity     | Student reported race/ethnicity where 'white' in the reference category. |
+> | Fulltime        | Fulltime status flag. |
+> | nAP             | The number of passed AP courses during HS. |
+> | nIB             | The number of passed IB courses during HS. |
+> | CmathPass2      | Becoming college-ready in math as compared to the cohort. |
+> | 30Creds         | Completing 30 college credits within one year. |
+> | Concentration   | Accumulation of 15 credits or more in a specific subject area. |
+> |
 
