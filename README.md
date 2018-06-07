@@ -105,7 +105,7 @@ Student outcomes for the most recent cohort of students were assessed using a lo
 > | Fulltime        | Fulltime status flag. |
 > | nAP             | The number of passed AP courses during HS. |
 > | nIB             | The number of passed IB courses during HS. |
-> | CmathPass2      | Becoming college-ready in math as compared to the cohort. |
+> | CmathPass2      | Becoming college-ready in math by year 2 as compared to the cohort. |
 > | 30Creds         | Completing 30 college credits within one year. |
 > | Concentration   | Accumulation of 15 credits or more in a specific subject area. |
 > 
