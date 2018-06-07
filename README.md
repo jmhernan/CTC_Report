@@ -108,5 +108,5 @@ Student outcomes for the most recent cohort of students were assessed using a lo
 > | CmathPass2      | Becoming college-ready in math as compared to the cohort. |
 > | 30Creds         | Completing 30 college credits within one year. |
 > | Concentration   | Accumulation of 15 credits or more in a specific subject area. |
-> |
+> 
 
