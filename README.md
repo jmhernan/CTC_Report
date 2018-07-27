@@ -12,7 +12,7 @@ Our cohort includes high school graduates, and only those who enroll in CTCs wit
 
 **Running Start Student:** To be counted, students must have participated in Running Start at any local CTC, and are counted even if they enroll in a different CTC after graduating high school than the CTC at which they took courses as part of Running Start. We use the field provided in SBCTC enrollment data that indicates whether a student has participated in Running Start at a particular institution.
 
-**Avoiding Developmental Education:** Students are considered not college-ready if they enroll in any pre-college coursework in math or English at any time during the 3-year period. We follow the SBCTC definition of pre-college level courses, which counts any course numbered below 100 to be at the pre-college level.21 College-ready students are those who did not take pre-college math or English during the 3-year period. The group of college-ready students may include some students that never took college-level math or English and thus may have either dropped out of college before taking college-level courses or were in a certificate program that did not require college-level math or English courses.
+**Being College Ready:** Students are considered not college-ready if they enroll in any pre-college coursework in math or English at any time during the 3-year period. We follow the SBCTC definition of pre-college level courses, which counts any course numbered below 100 to be at the pre-college level.21 **College-ready** students are those who did not take pre-college math or English during the 3-year period and enrolled in a college level math and english within two year *or* they concentrated (took 15-credits or more) in a specific subject in their first year. The group of college-ready students may include some students that never took college-level math or English and thus may have either dropped out of college before taking college-level courses or were in a certificate program that did not require college-level math or English courses.
 
 **Advanced Placement Participation**: This indicator is a continuous measure of the number of *passed* AP courses a student has accumulated in their HS years.
 
@@ -21,19 +21,12 @@ Our cohort includes high school graduates, and only those who enroll in CTCs wit
 ## Technical Definitions of Indicators
 For each indicator, time is measured in quarters (1 year = 4 quarters), and starts at the first quarter a student enrolls during the academic year directly following their high school graduation year.
 
-### **College-Ready in Math in First Two Years**
+### **Completing College Level Math in the First Two Years**
 This indicator measures the proportion of students that were college-ready in math by the end of their second year (i.e. Student enrolled and passed a college-level math course either in year one and/or by the end of the second year).
 
 **Numerator:** The number of students that enroll and pass one or more college math courses during their their first two years.
 
 **Denominator:** All students included in the cohort (see section ‘Student Cohort Selection’)
-
-### **Becoming College-Ready in Math**
-This indicator measures the proportion of students that were not college-ready in math by the end of their first year but enrolled and passed a college-level course by the end of their second year.
-
-**Numerator:** The number of students that enroll and pass one or more college math courses during their second year.
-
-**Denominator:** All students that enrolled in a remedial course in their first year.
 
 ### **Completing 30 College Credits Within One Year** 
 A student meets this metric if they complete 30 or more college-level credits within one full academic year of their first enrollment.
@@ -105,7 +98,7 @@ Student outcomes for the most recent cohort of students were assessed using a lo
 > | Fulltime        | Fulltime status flag. |
 > | nAP             | The number of passed AP courses during HS. |
 > | nIB             | The number of passed IB courses during HS. |
-> | CmathPass2      | Becoming college-ready in math by year 2 as compared to the cohort. |
+> | CmathPass2      | Completing college level math in the first two years as compared to the cohort. |
 > | 30Creds         | Completing 30 college credits within one year. |
 > | Concentration   | Accumulation of 15 credits or more in a specific subject area. |
 > 
